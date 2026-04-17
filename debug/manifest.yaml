@@ -6,4 +6,4 @@ metadata:
 spec:
   containers:
   - name: debug
-    image: moulali22/denug:1.4.0
+    image: moulali22/debug:1.4.0
