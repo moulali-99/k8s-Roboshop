@@ -41,5 +41,5 @@ spec:
     component: frontend
   ports:
   - protocol: TCP
-    port: 5679 # servie port
-    targetPort: 5679 # container port
+    port: 6379 # servie port
+    targetPort: 6379 # container port
